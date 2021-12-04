@@ -1,0 +1,29 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Bookman-Demi, Courier-Bold, serif;
+	background-color: #228394;
+}
+#header-nav {
+	background-color: #004094;
+}
+h1 {
+	margin: 0;
+	padding: 10px 10px 10px 15px;
+	font-size: 30px;
+}
+ a:hover, a:focus, a{
+  text-decoration: none;
+  color: #3d91ff;
+}
+ul {
+	text-decoration: none;
+}
+#text {
+	background-color: #1254c7;
+	padding: 10px;
+	margin: 20px;
+}
+#button {
+	float: right;
+}
